@@ -22,3 +22,5 @@ PORT=5000
 DB_URI=mongodb+srv://sabithfariq:typebadmin@todo.gn2dyv1.mongodb.net/?appName=todo
 
 
+- Run command "npm run dev"
+  
